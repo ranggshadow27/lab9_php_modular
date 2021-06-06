@@ -12,3 +12,11 @@ home.php & about.php
 ![image](https://user-images.githubusercontent.com/46300525/120908732-847bcf80-c697-11eb-9745-e6d6fb8c11e0.png)
 ![image](https://user-images.githubusercontent.com/46300525/120908739-98bfcc80-c697-11eb-8d51-8ee423d869c8.png)
 
+
+Tugas
+![image](https://user-images.githubusercontent.com/46300525/120908937-ae35f600-c699-11eb-973e-cc2b2c7efc7f.png)
+![image](https://user-images.githubusercontent.com/46300525/120908945-c148c600-c699-11eb-8feb-b2e542d47cd3.png)
+
+#
+
+
